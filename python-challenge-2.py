@@ -1,4 +1,4 @@
-"""Challenge #3."""
+"""Challenge #2."""
 
 import re
 

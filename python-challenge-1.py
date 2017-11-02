@@ -1,4 +1,4 @@
-"""Challenge #2."""
+"""Challenge #1."""
 
 
 def shift_char(char, amt):

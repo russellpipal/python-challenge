@@ -1,5 +1,5 @@
 """
-Python Challenge 1.
+Python Challenge 0.
 
 This one seems pretty simple.
 """
