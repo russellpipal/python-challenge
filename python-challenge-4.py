@@ -5,6 +5,7 @@ import re
 
 
 def scan_html(code):
+    """Scan using for loop."""
     for i in range(400):
         url = "http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing={}".format(code)
         with urllib.request.urlopen(url) as response:
@@ -19,6 +20,7 @@ scan_html(nothing)
 
 
 # def scan_html(code, counter):
+#     """Scan using recursion."""
 #     if counter <= 400:
 #         url = "http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing={}".format(code)
 #         with urllib.request.urlopen(url) as response:
