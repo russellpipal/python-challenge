@@ -7,3 +7,4 @@
 5. This wasn't too bad one I figured out what 'pickling' is. Apparently it's Python-only.
 6. I tried doing this by manually unzipping all the files without Python and it didn't work. This way works. Using exception handling maybe isn't the best way but I wanted to try it. I don't quite get the hockey/oxygen thing though. By the way, I've also started using PyCharm, which is powerful.
 7. Pretty proud of myself for figuring out this one. I eliminated the duplicate values to make it easier to read, but since some of the codes have two consecutive 1's in them I just added those manually.
+8. This one I needed help with. I'm still trying to figure out all the nuances of Unicode.
